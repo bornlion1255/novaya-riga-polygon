@@ -1,0 +1,2268 @@
+{
+ "matched": [
+  {
+   "name": "Старая Рига",
+   "slug": "staraya-riga",
+   "class": "B",
+   "km_catalog": 29,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.82848,
+   "lon": 36.98522,
+   "dist_to_m9_km": 2.48,
+   "in_corridor": true
+  },
+  {
+   "name": "Korovino",
+   "slug": "korovino",
+   "class": "B",
+   "km_catalog": 8,
+   "district": "Красногорский",
+   "roads": "",
+   "lat": 55.7816,
+   "lon": 37.22658,
+   "dist_to_m9_km": 5.07,
+   "in_corridor": true
+  },
+  {
+   "name": "Михалково Парк",
+   "slug": "mihalkovo-park",
+   "class": "B",
+   "km_catalog": 9,
+   "district": "Красногорский",
+   "roads": "Ильинское",
+   "lat": 55.79291,
+   "lon": 37.24435,
+   "dist_to_m9_km": 3.59,
+   "in_corridor": true
+  },
+  {
+   "name": "TEN",
+   "slug": "ten",
+   "class": "B",
+   "km_catalog": 10,
+   "district": "Красногорский",
+   "roads": "Ильинское",
+   "lat": 55.75746,
+   "lon": 37.21992,
+   "dist_to_m9_km": 7.78,
+   "in_corridor": false
+  },
+  {
+   "name": "Елочка",
+   "slug": "elochka",
+   "class": "B",
+   "km_catalog": 10,
+   "district": "Красногорский",
+   "roads": "",
+   "lat": 55.77831,
+   "lon": 37.18988,
+   "dist_to_m9_km": 5.95,
+   "in_corridor": true
+  },
+  {
+   "name": "Кленовая Роща",
+   "slug": "klenovaya-roscha",
+   "class": "B",
+   "km_catalog": 10,
+   "district": "Красногорский",
+   "roads": "",
+   "lat": 55.78427,
+   "lon": 37.22951,
+   "dist_to_m9_km": 4.73,
+   "in_corridor": true
+  },
+  {
+   "name": "У Лесного озера",
+   "slug": "les",
+   "class": "B",
+   "km_catalog": 10,
+   "district": "Красногорский",
+   "roads": "Волоколамское",
+   "lat": 55.86277,
+   "lon": 36.79386,
+   "dist_to_m9_km": 12.88,
+   "in_corridor": false
+  },
+  {
+   "name": "Александровский",
+   "slug": "aleksandrovskiy",
+   "class": "B",
+   "km_catalog": 12,
+   "district": "Красногорский",
+   "roads": "",
+   "lat": 55.75123,
+   "lon": 37.20311,
+   "dist_to_m9_km": 8.69,
+   "in_corridor": false
+  },
+  {
+   "name": "Pavlovo Village",
+   "slug": "pavlovo",
+   "class": "B",
+   "km_catalog": 14,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.80362,
+   "lon": 37.11299,
+   "dist_to_m9_km": 3.31,
+   "in_corridor": true
+  },
+  {
+   "name": "Ольгино",
+   "slug": "olgino",
+   "class": "B",
+   "km_catalog": 14,
+   "district": "Красногорский",
+   "roads": "",
+   "lat": 55.81025,
+   "lon": 37.2082,
+   "dist_to_m9_km": 2.23,
+   "in_corridor": true
+  },
+  {
+   "name": "Павлово House",
+   "slug": "pavlovo",
+   "class": "B",
+   "km_catalog": 14,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.80362,
+   "lon": 37.11299,
+   "dist_to_m9_km": 3.31,
+   "in_corridor": true
+  },
+  {
+   "name": "Павлово-2",
+   "slug": "pavlovo",
+   "class": "B",
+   "km_catalog": 14,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.80362,
+   "lon": 37.11299,
+   "dist_to_m9_km": 3.31,
+   "in_corridor": true
+  },
+  {
+   "name": "VillaNova",
+   "slug": "villanova",
+   "class": "B",
+   "km_catalog": 15,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.81116,
+   "lon": 37.13202,
+   "dist_to_m9_km": 2.52,
+   "in_corridor": true
+  },
+  {
+   "name": "Новое Павлово",
+   "slug": "pavlovo",
+   "class": "B",
+   "km_catalog": 16,
+   "district": "Красногорский",
+   "roads": "",
+   "lat": 55.80362,
+   "lon": 37.11299,
+   "dist_to_m9_km": 3.31,
+   "in_corridor": true
+  },
+  {
+   "name": "Веледниково Deluxe",
+   "slug": "velednikovo-deluxe",
+   "class": "B",
+   "km_catalog": 17,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.79552,
+   "lon": 37.11752,
+   "dist_to_m9_km": 4.22,
+   "in_corridor": true
+  },
+  {
+   "name": "Полиновка",
+   "slug": "polinovka",
+   "class": "B",
+   "km_catalog": 17,
+   "district": "Истринский",
+   "roads": "Волоколамское",
+   "lat": 55.86155,
+   "lon": 37.15217,
+   "dist_to_m9_km": 3.02,
+   "in_corridor": true
+  },
+  {
+   "name": "Серебряная роща",
+   "slug": "serebryanaya-roscha",
+   "class": "B",
+   "km_catalog": 17,
+   "district": "Истринский",
+   "roads": "Волоколамское",
+   "lat": 55.87606,
+   "lon": 37.14007,
+   "dist_to_m9_km": 4.67,
+   "in_corridor": true
+  },
+  {
+   "name": "Серебряное",
+   "slug": "serebryanoe",
+   "class": "B",
+   "km_catalog": 17,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.78791,
+   "lon": 37.10216,
+   "dist_to_m9_km": 5.02,
+   "in_corridor": true
+  },
+  {
+   "name": "Sky Hills",
+   "slug": "sky-hills",
+   "class": "B",
+   "km_catalog": 18,
+   "district": "Красногорский",
+   "roads": "Ильинское, Рублёво-Успенское",
+   "lat": 55.77795,
+   "lon": 37.10641,
+   "dist_to_m9_km": 6.14,
+   "in_corridor": true
+  },
+  {
+   "name": "Villa Fiesta",
+   "slug": "villa-fiesta",
+   "class": "B",
+   "km_catalog": 18,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.80726,
+   "lon": 37.14203,
+   "dist_to_m9_km": 2.98,
+   "in_corridor": true
+  },
+  {
+   "name": "Ильинское Клаб Хаус",
+   "slug": "ilinskoe-klab-haus",
+   "class": "B",
+   "km_catalog": 18,
+   "district": "Одинцовский",
+   "roads": "Ильинское",
+   "lat": 55.74252,
+   "lon": 37.10938,
+   "dist_to_m9_km": 10.09,
+   "in_corridor": false
+  },
+  {
+   "name": "Премьер Новорижский",
+   "slug": "premer-novorizhskij",
+   "class": "B",
+   "km_catalog": 18,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.78872,
+   "lon": 37.10978,
+   "dist_to_m9_km": 4.95,
+   "in_corridor": true
+  },
+  {
+   "name": "Сердце Риги",
+   "slug": "serdtce-rigi",
+   "class": "B",
+   "km_catalog": 18,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.77963,
+   "lon": 37.05711,
+   "dist_to_m9_km": 5.76,
+   "in_corridor": true
+  },
+  {
+   "name": "Скипер",
+   "slug": "skiper",
+   "class": "B",
+   "km_catalog": 18,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.8114,
+   "lon": 37.10642,
+   "dist_to_m9_km": 2.42,
+   "in_corridor": true
+  },
+  {
+   "name": "Турово",
+   "slug": "turovo",
+   "class": "B",
+   "km_catalog": 18,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.90253,
+   "lon": 37.10575,
+   "dist_to_m9_km": 6.48,
+   "in_corridor": true
+  },
+  {
+   "name": "Усадьба Веледниково",
+   "slug": "usadba-vekednikovo",
+   "class": "B",
+   "km_catalog": 18,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.79838,
+   "lon": 37.09995,
+   "dist_to_m9_km": 3.85,
+   "in_corridor": true
+  },
+  {
+   "name": "Артек-2",
+   "slug": "artek",
+   "class": "B",
+   "km_catalog": 20,
+   "district": "Истринский",
+   "roads": "Волоколамское",
+   "lat": 55.88419,
+   "lon": 37.17611,
+   "dist_to_m9_km": 5.48,
+   "in_corridor": true
+  },
+  {
+   "name": "Голландский квартал",
+   "slug": "gollandskij-kvartal",
+   "class": "B",
+   "km_catalog": 20,
+   "district": "Одинцовский",
+   "roads": "Ильинское",
+   "lat": 55.74261,
+   "lon": 37.10854,
+   "dist_to_m9_km": 10.08,
+   "in_corridor": false
+  },
+  {
+   "name": "Тимошкино Парк",
+   "slug": "timoshkino",
+   "class": "B",
+   "km_catalog": 20,
+   "district": "Красногорский",
+   "roads": "Ильинское",
+   "lat": 55.77234,
+   "lon": 37.10516,
+   "dist_to_m9_km": 6.76,
+   "in_corridor": false
+  },
+  {
+   "name": "Грибаново",
+   "slug": "gribanovo",
+   "class": "B",
+   "km_catalog": 21,
+   "district": "Одинцовский",
+   "roads": "Ильинское, Рублёво-Успенское",
+   "lat": 55.74468,
+   "lon": 37.1234,
+   "dist_to_m9_km": 9.89,
+   "in_corridor": false
+  },
+  {
+   "name": "Европа 2",
+   "slug": "evropa",
+   "class": "B",
+   "km_catalog": 22,
+   "district": "Красногорский",
+   "roads": "Ильинское, Рублёво-Успенское",
+   "lat": 55.74871,
+   "lon": 37.09864,
+   "dist_to_m9_km": 9.36,
+   "in_corridor": false
+  },
+  {
+   "name": "Тимошкино",
+   "slug": "timoshkino",
+   "class": "B",
+   "km_catalog": 22,
+   "district": "Красногорский",
+   "roads": "",
+   "lat": 55.77234,
+   "lon": 37.10516,
+   "dist_to_m9_km": 6.76,
+   "in_corridor": false
+  },
+  {
+   "name": "Futuro Park",
+   "slug": "futuro-park",
+   "class": "B",
+   "km_catalog": 23,
+   "district": "Истринский",
+   "roads": "Ильинское, Рублёво-Успенское",
+   "lat": 55.80575,
+   "lon": 37.00742,
+   "dist_to_m9_km": 3.04,
+   "in_corridor": true
+  },
+  {
+   "name": "Park Avenue",
+   "slug": "park-avenue",
+   "class": "B",
+   "km_catalog": 23,
+   "district": "Истринский",
+   "roads": "Ильинское, Рублёво-Успенское",
+   "lat": 55.78955,
+   "lon": 36.98277,
+   "dist_to_m9_km": 5.37,
+   "in_corridor": true
+  },
+  {
+   "name": "Park Fonte",
+   "slug": "park-fonte",
+   "class": "B",
+   "km_catalog": 23,
+   "district": "Истринский",
+   "roads": "Ильинское, Рублёво-Успенское",
+   "lat": 55.80436,
+   "lon": 36.96586,
+   "dist_to_m9_km": 4.87,
+   "in_corridor": true
+  },
+  {
+   "name": "Европа",
+   "slug": "evropa",
+   "class": "B",
+   "km_catalog": 23,
+   "district": "Красногорский",
+   "roads": "Ильинское, Рублёво-Успенское",
+   "lat": 55.74871,
+   "lon": 37.09864,
+   "dist_to_m9_km": 9.36,
+   "in_corridor": false
+  },
+  {
+   "name": "Кедры",
+   "slug": "kedry",
+   "class": "B",
+   "km_catalog": 23,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.81003,
+   "lon": 37.04305,
+   "dist_to_m9_km": 2.32,
+   "in_corridor": true
+  },
+  {
+   "name": "Krona Village",
+   "slug": "krona",
+   "class": "B",
+   "km_catalog": 23,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.83915,
+   "lon": 36.98948,
+   "dist_to_m9_km": 1.68,
+   "in_corridor": true
+  },
+  {
+   "name": "Новорижский",
+   "slug": "novorizhsky",
+   "class": "B",
+   "km_catalog": 23,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.81262,
+   "lon": 36.97459,
+   "dist_to_m9_km": 3.91,
+   "in_corridor": true
+  },
+  {
+   "name": "Рига Клаб Хаус",
+   "slug": "riga-klab-haus",
+   "class": "B",
+   "km_catalog": 23,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.83084,
+   "lon": 36.98458,
+   "dist_to_m9_km": 2.39,
+   "in_corridor": true
+  },
+  {
+   "name": "Мидлтон",
+   "slug": "midlton",
+   "class": "B",
+   "km_catalog": 24,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.83447,
+   "lon": 36.99387,
+   "dist_to_m9_km": 1.69,
+   "in_corridor": true
+  },
+  {
+   "name": "Спасово",
+   "slug": "spasovo",
+   "class": "B",
+   "km_catalog": 24,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.82601,
+   "lon": 36.9991,
+   "dist_to_m9_km": 1.85,
+   "in_corridor": true
+  },
+  {
+   "name": "Усадьба Аносино",
+   "slug": "usadba-anosino",
+   "class": "B",
+   "km_catalog": 24,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.83621,
+   "lon": 36.9827,
+   "dist_to_m9_km": 2.21,
+   "in_corridor": true
+  },
+  {
+   "name": "Жевнево",
+   "slug": "zhevnevo",
+   "class": "B",
+   "km_catalog": 25,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.86121,
+   "lon": 37.01494,
+   "dist_to_m9_km": 0.86,
+   "in_corridor": true
+  },
+  {
+   "name": "Онегино",
+   "slug": "onegino",
+   "class": "B",
+   "km_catalog": 25,
+   "district": "Одинцовский",
+   "roads": "",
+   "lat": 55.78225,
+   "lon": 37.0008,
+   "dist_to_m9_km": 5.63,
+   "in_corridor": true
+  },
+  {
+   "name": "Рождествено (25 км)",
+   "slug": "rozhdestveno",
+   "class": "B",
+   "km_catalog": 25,
+   "district": "Истринский",
+   "roads": "Волоколамское",
+   "lat": 55.84693,
+   "lon": 37.07382,
+   "dist_to_m9_km": 1.65,
+   "in_corridor": true
+  },
+  {
+   "name": "Роща",
+   "slug": "rosha",
+   "class": "B",
+   "km_catalog": 25,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.80265,
+   "lon": 36.98918,
+   "dist_to_m9_km": 3.95,
+   "in_corridor": true
+  },
+  {
+   "name": "Старый Свет-2",
+   "slug": "stary-svet2",
+   "class": "B",
+   "km_catalog": 25,
+   "district": "Истринский",
+   "roads": "Рублёво-Успенское",
+   "lat": 55.83491,
+   "lon": 36.94453,
+   "dist_to_m9_km": 4.38,
+   "in_corridor": true
+  },
+  {
+   "name": "Турово парк",
+   "slug": "turovo",
+   "class": "B",
+   "km_catalog": 25,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.90253,
+   "lon": 37.10575,
+   "dist_to_m9_km": 6.48,
+   "in_corridor": true
+  },
+  {
+   "name": "Славково",
+   "slug": "slavkovo",
+   "class": "B",
+   "km_catalog": 26,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.79995,
+   "lon": 36.95996,
+   "dist_to_m9_km": 5.47,
+   "in_corridor": true
+  },
+  {
+   "name": "Веванта лайф",
+   "slug": "vevanta-lajf",
+   "class": "B",
+   "km_catalog": 27,
+   "district": "Истринский",
+   "roads": "Волоколамское",
+   "lat": 55.9,
+   "lon": 37.07357,
+   "dist_to_m9_km": 4.55,
+   "in_corridor": true
+  },
+  {
+   "name": "Связист",
+   "slug": "svyazist",
+   "class": "B",
+   "km_catalog": 27,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.85587,
+   "lon": 37.10465,
+   "dist_to_m9_km": 2.53,
+   "in_corridor": true
+  },
+  {
+   "name": "Старый Свет",
+   "slug": "stary-svet2",
+   "class": "B",
+   "km_catalog": 27,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.83491,
+   "lon": 36.94453,
+   "dist_to_m9_km": 4.38,
+   "in_corridor": true
+  },
+  {
+   "name": "Рождествено (28 км)",
+   "slug": "rozhdestveno",
+   "class": "B",
+   "km_catalog": 28,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.84693,
+   "lon": 37.07382,
+   "dist_to_m9_km": 1.65,
+   "in_corridor": true
+  },
+  {
+   "name": "Борки-Борисково",
+   "slug": "borki-boriskovo",
+   "class": "B",
+   "km_catalog": 29,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.83899,
+   "lon": 36.95582,
+   "dist_to_m9_km": 3.54,
+   "in_corridor": true
+  },
+  {
+   "name": "Жемчужина",
+   "slug": "zhemchuzhina",
+   "class": "B",
+   "km_catalog": 29,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.87406,
+   "lon": 36.98261,
+   "dist_to_m9_km": 1.47,
+   "in_corridor": true
+  },
+  {
+   "name": "Александрово",
+   "slug": "alexandrovo",
+   "class": "B",
+   "km_catalog": 30,
+   "district": "Истринский",
+   "roads": "Ильинское",
+   "lat": 55.83855,
+   "lon": 36.90449,
+   "dist_to_m9_km": 6.43,
+   "in_corridor": true
+  },
+  {
+   "name": "Альбион",
+   "slug": "albion",
+   "class": "B",
+   "km_catalog": 30,
+   "district": "Истринский",
+   "roads": "Волоколамское",
+   "lat": 55.88391,
+   "lon": 36.97519,
+   "dist_to_m9_km": 2.21,
+   "in_corridor": true
+  },
+  {
+   "name": "Лесное Манихино",
+   "slug": "manihino",
+   "class": "B",
+   "km_catalog": 30,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.8753,
+   "lon": 36.97271,
+   "dist_to_m9_km": 2.1,
+   "in_corridor": true
+  },
+  {
+   "name": "Ливадия на Истре",
+   "slug": "livadiya-na-istre",
+   "class": "B",
+   "km_catalog": 30,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.8395,
+   "lon": 36.96342,
+   "dist_to_m9_km": 3.1,
+   "in_corridor": true
+  },
+  {
+   "name": "Подмосковные просторы",
+   "slug": "podmoskovnie-prostory",
+   "class": "B",
+   "km_catalog": 30,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.85517,
+   "lon": 36.9463,
+   "dist_to_m9_km": 3.4,
+   "in_corridor": true
+  },
+  {
+   "name": "Давыдовское",
+   "slug": "davydovskoe",
+   "class": "B",
+   "km_catalog": 31,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.86267,
+   "lon": 36.79306,
+   "dist_to_m9_km": 12.93,
+   "in_corridor": false
+  },
+  {
+   "name": "Манихино",
+   "slug": "manihino",
+   "class": "B",
+   "km_catalog": 31,
+   "district": "Истринский",
+   "roads": "Волоколамское",
+   "lat": 55.8753,
+   "lon": 36.97271,
+   "dist_to_m9_km": 2.1,
+   "in_corridor": true
+  },
+  {
+   "name": "Кашино",
+   "slug": "kashino",
+   "class": "B",
+   "km_catalog": 32,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.9347,
+   "lon": 36.91298,
+   "dist_to_m9_km": 8.58,
+   "in_corridor": false
+  },
+  {
+   "name": "Дольче Вита",
+   "slug": "dolchevita",
+   "class": "B",
+   "km_catalog": 33,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.95578,
+   "lon": 36.96663,
+   "dist_to_m9_km": 8.86,
+   "in_corridor": false
+  },
+  {
+   "name": "Sunny Dale",
+   "slug": "sunny-dale",
+   "class": "B",
+   "km_catalog": 35,
+   "district": "Одинцовский",
+   "roads": "Минское, Можайское",
+   "lat": 55.71534,
+   "lon": 36.82308,
+   "dist_to_m9_km": 18.17,
+   "in_corridor": false
+  },
+  {
+   "name": "Дарна",
+   "slug": "darna",
+   "class": "B",
+   "km_catalog": 36,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.93386,
+   "lon": 36.92177,
+   "dist_to_m9_km": 8.14,
+   "in_corridor": false
+  },
+  {
+   "name": "Дарна 2",
+   "slug": "darna",
+   "class": "B",
+   "km_catalog": 36,
+   "district": "Истринский",
+   "roads": "Волоколамское",
+   "lat": 55.93386,
+   "lon": 36.92177,
+   "dist_to_m9_km": 8.14,
+   "in_corridor": false
+  },
+  {
+   "name": "Ершово",
+   "slug": "ershovo",
+   "class": "B",
+   "km_catalog": 36,
+   "district": "Одинцовский",
+   "roads": "",
+   "lat": 55.75332,
+   "lon": 36.83884,
+   "dist_to_m9_km": 14.66,
+   "in_corridor": false
+  },
+  {
+   "name": "Western",
+   "slug": "western",
+   "class": "B",
+   "km_catalog": 38,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.93218,
+   "lon": 36.93902,
+   "dist_to_m9_km": 7.3,
+   "in_corridor": false
+  },
+  {
+   "name": "Истра Кантри Клаб",
+   "slug": "istra-country-club",
+   "class": "B",
+   "km_catalog": 38,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.86151,
+   "lon": 36.78021,
+   "dist_to_m9_km": 13.73,
+   "in_corridor": false
+  },
+  {
+   "name": "Котово Life",
+   "slug": "kotovo",
+   "class": "B",
+   "km_catalog": 38,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.87933,
+   "lon": 36.76307,
+   "dist_to_m9_km": 14.95,
+   "in_corridor": false
+  },
+  {
+   "name": "Крючково-1",
+   "slug": "kruchkovo1",
+   "class": "B",
+   "km_catalog": 38,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.87319,
+   "lon": 36.80045,
+   "dist_to_m9_km": 12.55,
+   "in_corridor": false
+  },
+  {
+   "name": "Крючково-2",
+   "slug": "kruchkovo2",
+   "class": "B",
+   "km_catalog": 38,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.87489,
+   "lon": 36.79384,
+   "dist_to_m9_km": 12.98,
+   "in_corridor": false
+  },
+  {
+   "name": "Лесная резиденция",
+   "slug": "les",
+   "class": "B",
+   "km_catalog": 38,
+   "district": "Истринский",
+   "roads": "Волоколамское",
+   "lat": 55.86277,
+   "lon": 36.79386,
+   "dist_to_m9_km": 12.88,
+   "in_corridor": false
+  },
+  {
+   "name": "Тополь",
+   "slug": "topol",
+   "class": "B",
+   "km_catalog": 38,
+   "district": "",
+   "roads": "Волоколамское, Ленинградское, Пятницкое",
+   "lat": 55.97783,
+   "lon": 36.94051,
+   "dist_to_m9_km": 11.72,
+   "in_corridor": false
+  },
+  {
+   "name": "Шоколад",
+   "slug": "shokolad",
+   "class": "B",
+   "km_catalog": 38,
+   "district": "Истринский",
+   "roads": "Волоколамское, Пятницкое",
+   "lat": 55.96426,
+   "lon": 36.94639,
+   "dist_to_m9_km": 10.18,
+   "in_corridor": false
+  },
+  {
+   "name": "Клевер",
+   "slug": "klever",
+   "class": "B",
+   "km_catalog": 39,
+   "district": "Истринский",
+   "roads": "Волоколамское",
+   "lat": 55.88339,
+   "lon": 36.80194,
+   "dist_to_m9_km": 12.64,
+   "in_corridor": false
+  },
+  {
+   "name": "Лисавино",
+   "slug": "lisavino",
+   "class": "B",
+   "km_catalog": 39,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.95523,
+   "lon": 36.99498,
+   "dist_to_m9_km": 8.43,
+   "in_corridor": false
+  },
+  {
+   "name": "Финская деревня-2",
+   "slug": "finskaya-derevnya2",
+   "class": "B",
+   "km_catalog": 39,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.87443,
+   "lon": 36.81737,
+   "dist_to_m9_km": 11.52,
+   "in_corridor": false
+  },
+  {
+   "name": "Андреевка",
+   "slug": "andreevka",
+   "class": "B",
+   "km_catalog": 40,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.95085,
+   "lon": 36.87713,
+   "dist_to_m9_km": 11.44,
+   "in_corridor": false
+  },
+  {
+   "name": "Резиденция Рублево",
+   "slug": "rezidentsiya-rublevo",
+   "class": "E",
+   "km_catalog": 2,
+   "district": "Одинцовский",
+   "roads": "Рублёво-Успенское",
+   "lat": 55.80425,
+   "lon": 37.37982,
+   "dist_to_m9_km": 1.38,
+   "in_corridor": true
+  },
+  {
+   "name": "Троице-Лыково",
+   "slug": "troitse-lykovo",
+   "class": "E",
+   "km_catalog": "",
+   "district": "Красногорский",
+   "roads": "",
+   "lat": 55.78306,
+   "lon": 37.3902,
+   "dist_to_m9_km": 3.66,
+   "in_corridor": true
+  },
+  {
+   "name": "Береста",
+   "slug": "beresta",
+   "class": "E",
+   "km_catalog": 2,
+   "district": "Красногорский",
+   "roads": "",
+   "lat": 55.80497,
+   "lon": 37.37005,
+   "dist_to_m9_km": 1.37,
+   "in_corridor": true
+  },
+  {
+   "name": "Береста-2",
+   "slug": "beresta",
+   "class": "E",
+   "km_catalog": 2,
+   "district": "Красногорский",
+   "roads": "",
+   "lat": 55.80497,
+   "lon": 37.37005,
+   "dist_to_m9_km": 1.37,
+   "in_corridor": true
+  },
+  {
+   "name": "Берег столицы",
+   "slug": "bereg-stolitcy",
+   "class": "E",
+   "km_catalog": 3,
+   "district": "",
+   "roads": "",
+   "lat": 55.77748,
+   "lon": 37.44157,
+   "dist_to_m9_km": 4.68,
+   "in_corridor": true
+  },
+  {
+   "name": "Строгинская бухта",
+   "slug": "stroginskaya-buhta",
+   "class": "E",
+   "km_catalog": 3,
+   "district": "Красногорский",
+   "roads": "",
+   "lat": 55.8051,
+   "lon": 37.36271,
+   "dist_to_m9_km": 1.41,
+   "in_corridor": true
+  },
+  {
+   "name": "Архангельское-5",
+   "slug": "arhangelskoe5",
+   "class": "E",
+   "km_catalog": 5,
+   "district": "Красногорский",
+   "roads": "Ильинское",
+   "lat": 55.79906,
+   "lon": 37.26769,
+   "dist_to_m9_km": 2.73,
+   "in_corridor": true
+  },
+  {
+   "name": "Генеральские дачи",
+   "slug": "generalskie-dachi",
+   "class": "E",
+   "km_catalog": 7,
+   "district": "Одинцовский",
+   "roads": "Ильинское",
+   "lat": 55.79702,
+   "lon": 37.29113,
+   "dist_to_m9_km": 2.8,
+   "in_corridor": true
+  },
+  {
+   "name": "Ильинский Квартал",
+   "slug": "ilinsky-kvartal",
+   "class": "E",
+   "km_catalog": 7,
+   "district": "Красногорский",
+   "roads": "Ильинское, Рублёво-Успенское",
+   "lat": 55.7813,
+   "lon": 37.24307,
+   "dist_to_m9_km": 4.87,
+   "in_corridor": true
+  },
+  {
+   "name": "Урожай",
+   "slug": "urozhai",
+   "class": "E",
+   "km_catalog": 7,
+   "district": "Красногорский",
+   "roads": "",
+   "lat": 55.80037,
+   "lon": 37.25851,
+   "dist_to_m9_km": 2.65,
+   "in_corridor": true
+  },
+  {
+   "name": "Oasis",
+   "slug": "oasis",
+   "class": "E",
+   "km_catalog": 9,
+   "district": "Красногорский",
+   "roads": "",
+   "lat": 55.79291,
+   "lon": 37.22332,
+   "dist_to_m9_km": 3.89,
+   "in_corridor": true
+  },
+  {
+   "name": "Архангельское (эл)",
+   "slug": "arhangelskoe-2",
+   "class": "E",
+   "km_catalog": 9,
+   "district": "Красногорский",
+   "roads": "Ильинское, Рублёво-Успенское",
+   "lat": 55.78255,
+   "lon": 37.25391,
+   "dist_to_m9_km": 4.65,
+   "in_corridor": true
+  },
+  {
+   "name": "Архангельское II",
+   "slug": "arhangelskoe-2",
+   "class": "E",
+   "km_catalog": 9,
+   "district": "Красногорский",
+   "roads": "Ильинское",
+   "lat": 55.78255,
+   "lon": 37.25391,
+   "dist_to_m9_km": 4.65,
+   "in_corridor": true
+  },
+  {
+   "name": "Никольская слобода",
+   "slug": "nikolskaya-sloboda",
+   "class": "E",
+   "km_catalog": 9,
+   "district": "Красногорский",
+   "roads": "",
+   "lat": 55.79489,
+   "lon": 37.22687,
+   "dist_to_m9_km": 3.62,
+   "in_corridor": true
+  },
+  {
+   "name": "Третья Охота",
+   "slug": "tretya-ohota",
+   "class": "E",
+   "km_catalog": 9,
+   "district": "Красногорский",
+   "roads": "",
+   "lat": 55.78452,
+   "lon": 37.21867,
+   "dist_to_m9_km": 4.86,
+   "in_corridor": true
+  },
+  {
+   "name": "Ветеран",
+   "slug": "veteran",
+   "class": "E",
+   "km_catalog": 10,
+   "district": "Красногорский",
+   "roads": "",
+   "lat": 55.77443,
+   "lon": 37.24961,
+   "dist_to_m9_km": 5.58,
+   "in_corridor": true
+  },
+  {
+   "name": "Русич",
+   "slug": "rusich",
+   "class": "E",
+   "km_catalog": 10,
+   "district": "Красногорский",
+   "roads": "Волоколамское, Ильинское",
+   "lat": 55.78534,
+   "lon": 37.21696,
+   "dist_to_m9_km": 4.8,
+   "in_corridor": true
+  },
+  {
+   "name": "Ильинка",
+   "slug": "ilinka",
+   "class": "E",
+   "km_catalog": 11,
+   "district": "Красногорский",
+   "roads": "Ильинское, Рублёво-Успенское",
+   "lat": 55.75844,
+   "lon": 37.24701,
+   "dist_to_m9_km": 7.37,
+   "in_corridor": false
+  },
+  {
+   "name": "Нива",
+   "slug": "niva",
+   "class": "E",
+   "km_catalog": 12,
+   "district": "Красногорский",
+   "roads": "Ильинское, Рублёво-Успенское",
+   "lat": 55.76385,
+   "lon": 37.20698,
+   "dist_to_m9_km": 7.27,
+   "in_corridor": false
+  },
+  {
+   "name": "Николо-Урюпино",
+   "slug": "nikolo-urupino",
+   "class": "E",
+   "km_catalog": 14,
+   "district": "Красногорский",
+   "roads": "",
+   "lat": 55.80214,
+   "lon": 37.20779,
+   "dist_to_m9_km": 3.11,
+   "in_corridor": true
+  },
+  {
+   "name": "Павлово (эл)",
+   "slug": "pavlovo",
+   "class": "E",
+   "km_catalog": 14,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.80362,
+   "lon": 37.11299,
+   "dist_to_m9_km": 3.31,
+   "in_corridor": true
+  },
+  {
+   "name": "Французский квартал",
+   "slug": "francuzkiy-kvartal",
+   "class": "E",
+   "km_catalog": 14,
+   "district": "Одинцовский",
+   "roads": "",
+   "lat": 55.83373,
+   "lon": 36.92828,
+   "dist_to_m9_km": 5.33,
+   "in_corridor": true
+  },
+  {
+   "name": "Маленькая Италия",
+   "slug": "malenkaya-italiya",
+   "class": "E",
+   "km_catalog": 15,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.8081,
+   "lon": 37.13691,
+   "dist_to_m9_km": 2.88,
+   "in_corridor": true
+  },
+  {
+   "name": "Новахово",
+   "slug": "novahovo",
+   "class": "E",
+   "km_catalog": 15,
+   "district": "",
+   "roads": "",
+   "lat": 55.80396,
+   "lon": 37.20927,
+   "dist_to_m9_km": 2.89,
+   "in_corridor": true
+  },
+  {
+   "name": "Романово",
+   "slug": "romanovo",
+   "class": "E",
+   "km_catalog": 15,
+   "district": "Одинцовский",
+   "roads": "",
+   "lat": 55.67046,
+   "lon": 37.1524,
+   "dist_to_m9_km": 18.18,
+   "in_corridor": false
+  },
+  {
+   "name": "Близкий берег",
+   "slug": "blizkij-bereg",
+   "class": "E",
+   "km_catalog": 16,
+   "district": "Красногорский",
+   "roads": "",
+   "lat": 55.88921,
+   "lon": 37.1422,
+   "dist_to_m9_km": 6.13,
+   "in_corridor": true
+  },
+  {
+   "name": "Пенаты",
+   "slug": "penaty",
+   "class": "E",
+   "km_catalog": 16,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.80385,
+   "lon": 37.12311,
+   "dist_to_m9_km": 3.31,
+   "in_corridor": true
+  },
+  {
+   "name": "Нахабино Кантри Клаб",
+   "slug": "nahabino-country-club",
+   "class": "E",
+   "km_catalog": 17,
+   "district": "Красногорский",
+   "roads": "",
+   "lat": 55.8694,
+   "lon": 37.19801,
+   "dist_to_m9_km": 4.03,
+   "in_corridor": true
+  },
+  {
+   "name": "Миллениум парк",
+   "slug": "millenium-park",
+   "class": "E",
+   "km_catalog": 19,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.78309,
+   "lon": 37.02384,
+   "dist_to_m9_km": 5.27,
+   "in_corridor": true
+  },
+  {
+   "name": "Пирамидово",
+   "slug": "piramidovo",
+   "class": "E",
+   "km_catalog": 20,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.77067,
+   "lon": 37.03358,
+   "dist_to_m9_km": 6.66,
+   "in_corridor": false
+  },
+  {
+   "name": "Резиденции Бенилюкс",
+   "slug": "residentsii-benilux",
+   "class": "E",
+   "km_catalog": 21,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.77447,
+   "lon": 37.0286,
+   "dist_to_m9_km": 6.23,
+   "in_corridor": true
+  },
+  {
+   "name": "Павловская слобода (эл)",
+   "slug": "pavlovskaya-sloboda",
+   "class": "E",
+   "km_catalog": 22,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.83044,
+   "lon": 37.0285,
+   "dist_to_m9_km": 0.0,
+   "in_corridor": true
+  },
+  {
+   "name": "Rubleff Village",
+   "slug": "rubleff-village",
+   "class": "E",
+   "km_catalog": 23,
+   "district": "Одинцовский",
+   "roads": "Можайское, Рублёво-Успенское",
+   "lat": 55.70962,
+   "lon": 36.98364,
+   "dist_to_m9_km": 13.74,
+   "in_corridor": false
+  },
+  {
+   "name": "Берестово-Club",
+   "slug": "berestovo-club",
+   "class": "E",
+   "km_catalog": 23,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.80752,
+   "lon": 37.00432,
+   "dist_to_m9_km": 2.96,
+   "in_corridor": true
+  },
+  {
+   "name": "Гринфилд",
+   "slug": "greenfield",
+   "class": "E",
+   "km_catalog": 23,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.78289,
+   "lon": 36.97356,
+   "dist_to_m9_km": 6.31,
+   "in_corridor": true
+  },
+  {
+   "name": "Монтевиль",
+   "slug": "monteville",
+   "class": "E",
+   "km_catalog": 23,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.79499,
+   "lon": 36.97135,
+   "dist_to_m9_km": 5.32,
+   "in_corridor": true
+  },
+  {
+   "name": "Никологорские дачи",
+   "slug": "nikologorskie-dachy",
+   "class": "E",
+   "km_catalog": 23,
+   "district": "Одинцовский",
+   "roads": "Ильинское, Рублёво-Успенское",
+   "lat": 55.74243,
+   "lon": 37.0889,
+   "dist_to_m9_km": 10.02,
+   "in_corridor": false
+  },
+  {
+   "name": "Риверсайд",
+   "slug": "riverside",
+   "class": "E",
+   "km_catalog": 23,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.79471,
+   "lon": 36.95948,
+   "dist_to_m9_km": 5.87,
+   "in_corridor": true
+  },
+  {
+   "name": "Madison Park",
+   "slug": "madison-park",
+   "class": "E",
+   "km_catalog": 24,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.77667,
+   "lon": 36.94762,
+   "dist_to_m9_km": 7.84,
+   "in_corridor": false
+  },
+  {
+   "name": "Истринская слобода",
+   "slug": "ustrinskaya-sloboda",
+   "class": "E",
+   "km_catalog": 24,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.82421,
+   "lon": 37.04848,
+   "dist_to_m9_km": 0.77,
+   "in_corridor": true
+  },
+  {
+   "name": "Княжье Озеро",
+   "slug": "knyazhe-ozero",
+   "class": "E",
+   "km_catalog": 24,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.81902,
+   "lon": 37.04487,
+   "dist_to_m9_km": 1.33,
+   "in_corridor": true
+  },
+  {
+   "name": "Резиденция Монолит",
+   "slug": "rezidentsiya-monolit",
+   "class": "E",
+   "km_catalog": 24,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.78981,
+   "lon": 37.00407,
+   "dist_to_m9_km": 4.77,
+   "in_corridor": true
+  },
+  {
+   "name": "Сосновый остров",
+   "slug": "sosnovy-ostrov",
+   "class": "E",
+   "km_catalog": 25,
+   "district": "Одинцовский",
+   "roads": "Рублёво-Успенское",
+   "lat": 55.7438,
+   "lon": 37.06942,
+   "dist_to_m9_km": 9.79,
+   "in_corridor": false
+  },
+  {
+   "name": "Лесные зори",
+   "slug": "les",
+   "class": "E",
+   "km_catalog": 26,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.86277,
+   "lon": 36.79386,
+   "dist_to_m9_km": 12.88,
+   "in_corridor": false
+  },
+  {
+   "name": "Шервуд",
+   "slug": "sherwood",
+   "class": "E",
+   "km_catalog": 26,
+   "district": "Одинцовский",
+   "roads": "",
+   "lat": 55.77756,
+   "lon": 37.00562,
+   "dist_to_m9_km": 6.05,
+   "in_corridor": true
+  },
+  {
+   "name": "Белая гора",
+   "slug": "belaya-gora",
+   "class": "E",
+   "km_catalog": 27,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.84462,
+   "lon": 36.98288,
+   "dist_to_m9_km": 1.76,
+   "in_corridor": true
+  },
+  {
+   "name": "По-Рижская Мечта",
+   "slug": "porizhskaya-mechta",
+   "class": "E",
+   "km_catalog": 27,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.83417,
+   "lon": 36.95663,
+   "dist_to_m9_km": 3.75,
+   "in_corridor": true
+  },
+  {
+   "name": "Борки-2",
+   "slug": "borki2",
+   "class": "E",
+   "km_catalog": 28,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.83662,
+   "lon": 36.94032,
+   "dist_to_m9_km": 4.52,
+   "in_corridor": true
+  },
+  {
+   "name": "Маслово Forest Club",
+   "slug": "maslovo-forest-club",
+   "class": "E",
+   "km_catalog": 28,
+   "district": "Одинцовский",
+   "roads": "Рублёво-Успенское",
+   "lat": 55.74687,
+   "lon": 37.0625,
+   "dist_to_m9_km": 9.42,
+   "in_corridor": false
+  },
+  {
+   "name": "Озерное",
+   "slug": "ozernoe",
+   "class": "E",
+   "km_catalog": 28,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.79285,
+   "lon": 36.9979,
+   "dist_to_m9_km": 4.6,
+   "in_corridor": true
+  },
+  {
+   "name": "Снегири (эл)",
+   "slug": "snegiri",
+   "class": "E",
+   "km_catalog": 28,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.89123,
+   "lon": 37.04575,
+   "dist_to_m9_km": 2.56,
+   "in_corridor": true
+  },
+  {
+   "name": "Грин Хилл",
+   "slug": "greenhill",
+   "class": "E",
+   "km_catalog": 29,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.83987,
+   "lon": 36.98224,
+   "dist_to_m9_km": 2.04,
+   "in_corridor": true
+  },
+  {
+   "name": "Мозжинка",
+   "slug": "mozzhinka",
+   "class": "E",
+   "km_catalog": 30,
+   "district": "Одинцовский",
+   "roads": "",
+   "lat": 55.73843,
+   "lon": 36.89207,
+   "dist_to_m9_km": 13.34,
+   "in_corridor": false
+  },
+  {
+   "name": "Спутник",
+   "slug": "sputnik",
+   "class": "E",
+   "km_catalog": 30,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.85175,
+   "lon": 36.92288,
+   "dist_to_m9_km": 4.91,
+   "in_corridor": true
+  },
+  {
+   "name": "Lipki Парк",
+   "slug": "lipki-park",
+   "class": "E",
+   "km_catalog": 33,
+   "district": "Одинцовский",
+   "roads": "Рублёво-Успенское",
+   "lat": 55.75948,
+   "lon": 36.95171,
+   "dist_to_m9_km": 9.24,
+   "in_corridor": false
+  },
+  {
+   "name": "Vision",
+   "slug": "vision",
+   "class": "E",
+   "km_catalog": 35,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.85046,
+   "lon": 36.77166,
+   "dist_to_m9_km": 14.31,
+   "in_corridor": false
+  },
+  {
+   "name": "Полянка",
+   "slug": "poljanka",
+   "class": "E",
+   "km_catalog": 38,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.89021,
+   "lon": 36.82657,
+   "dist_to_m9_km": 11.33,
+   "in_corridor": false
+  },
+  {
+   "name": "Аист",
+   "slug": "aist",
+   "class": "E",
+   "km_catalog": 40,
+   "district": "Истринский",
+   "roads": "Волоколамское",
+   "lat": 55.93892,
+   "lon": 36.77003,
+   "dist_to_m9_km": 16.34,
+   "in_corridor": false
+  },
+  {
+   "name": "Эссенс",
+   "slug": "essens",
+   "class": "E",
+   "km_catalog": 43,
+   "district": "Истринский",
+   "roads": "",
+   "lat": 55.95238,
+   "lon": 36.86385,
+   "dist_to_m9_km": 12.16,
+   "in_corridor": false
+  },
+  {
+   "name": "Старые вязы",
+   "slug": "starye-vyazy",
+   "class": "E",
+   "km_catalog": 70,
+   "district": "Рузский",
+   "roads": "",
+   "lat": 55.97295,
+   "lon": 36.42545,
+   "dist_to_m9_km": 37.86,
+   "in_corridor": false
+  }
+ ],
+ "unmatched": [
+  {
+   "name": "Ozerna Residence",
+   "km_catalog": 100,
+   "class": "B",
+   "district": "Рузский"
+  },
+  {
+   "name": "Ангелово",
+   "km_catalog": 4,
+   "class": "B",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Воронки",
+   "km_catalog": 5,
+   "class": "B",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Hygge House",
+   "km_catalog": 7,
+   "class": "B",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Архангельская Ривьера",
+   "km_catalog": 7,
+   "class": "B",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Николаевка",
+   "km_catalog": 8,
+   "class": "B",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Бортники",
+   "km_catalog": 9,
+   "class": "B",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Никольский парк",
+   "km_catalog": 10,
+   "class": "B",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Рижский квартал",
+   "km_catalog": 10,
+   "class": "B",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Лес и Река",
+   "km_catalog": 14,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Чистые пруды-2",
+   "km_catalog": 14,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "FreeDom",
+   "km_catalog": 15,
+   "class": "B",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Нахабино (Зеленый шум-2)",
+   "km_catalog": 15,
+   "class": "B",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Ильинка Парк",
+   "km_catalog": 17,
+   "class": "B",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Липка",
+   "km_catalog": 17,
+   "class": "B",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Рига! Рига!",
+   "km_catalog": 17,
+   "class": "B",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Три долины",
+   "km_catalog": 17,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Балтия",
+   "km_catalog": 19,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Новорижская усадьба-1,2,3",
+   "km_catalog": 19,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Regency Club",
+   "km_catalog": 20,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Павловские сосны",
+   "km_catalog": 20,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Новоснегиревский",
+   "km_catalog": 23,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Покровский парк",
+   "km_catalog": 23,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Английский квартал в Аносино",
+   "km_catalog": 24,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "БережокЪ",
+   "km_catalog": 24,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Кембридж",
+   "km_catalog": 24,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Аносино Парк",
+   "km_catalog": 25,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Медовый Спас",
+   "km_catalog": 25,
+   "class": "B",
+   "district": "Одинцовский"
+  },
+  {
+   "name": "Рига парк",
+   "km_catalog": 25,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Русская деревня",
+   "km_catalog": 25,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Соловьи",
+   "km_catalog": 25,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Усадьба Вельяминово",
+   "km_catalog": 26,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Элегия",
+   "km_catalog": 27,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Алекс Парк",
+   "km_catalog": 29,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Британика",
+   "km_catalog": 29,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Левитаново",
+   "km_catalog": 29,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Петровские аллеи",
+   "km_catalog": 29,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Петровский парк-2",
+   "km_catalog": 29,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Skokovo Park",
+   "km_catalog": 30,
+   "class": "B",
+   "district": "Одинцовский"
+  },
+  {
+   "name": "Аисты",
+   "km_catalog": 30,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Иволги",
+   "km_catalog": 30,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Зеленая горка",
+   "km_catalog": 33,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Гринвич",
+   "km_catalog": 34,
+   "class": "B",
+   "district": "Солнечногорский"
+  },
+  {
+   "name": "Антея",
+   "km_catalog": 35,
+   "class": "B",
+   "district": "Солнечногорский"
+  },
+  {
+   "name": "Лукино",
+   "km_catalog": 35,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Усадьба Алексино",
+   "km_catalog": 35,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Альпийский поселок",
+   "km_catalog": 37,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Лужки",
+   "km_catalog": 37,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Светлогорье",
+   "km_catalog": 37,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Yard Village",
+   "km_catalog": 38,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Давыдово",
+   "km_catalog": 38,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Заречный (Заречные луга)",
+   "km_catalog": 38,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Зеленый Квартал",
+   "km_catalog": 38,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Опушкино",
+   "km_catalog": 38,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Сокольники (38 км)",
+   "km_catalog": 38,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Супонево",
+   "km_catalog": 38,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Величъ",
+   "km_catalog": 39,
+   "class": "B",
+   "district": "Одинцовский"
+  },
+  {
+   "name": "Киселево",
+   "km_catalog": 39,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Лёс",
+   "km_catalog": 39,
+   "class": "B",
+   "district": "Истринский"
+  },
+  {
+   "name": "Годуново",
+   "km_catalog": "",
+   "class": "E",
+   "district": ""
+  },
+  {
+   "name": "Мякинино",
+   "km_catalog": 2,
+   "class": "E",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Глухово",
+   "km_catalog": 7,
+   "class": "E",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Новоархангельское",
+   "km_catalog": 7,
+   "class": "E",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Пелегрина",
+   "km_catalog": 7,
+   "class": "E",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Горки-6",
+   "km_catalog": 8,
+   "class": "E",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Lumiere",
+   "km_catalog": 9,
+   "class": "E",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Ильинское поле",
+   "km_catalog": 10,
+   "class": "E",
+   "district": "Одинцовский"
+  },
+  {
+   "name": "Дачи АМО ЗИЛ",
+   "km_catalog": 13,
+   "class": "E",
+   "district": "Одинцовский"
+  },
+  {
+   "name": "Прозорово",
+   "km_catalog": 14,
+   "class": "E",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Слобода",
+   "km_catalog": 14,
+   "class": "E",
+   "district": "Истринский"
+  },
+  {
+   "name": "Шелковое озеро",
+   "km_catalog": 14,
+   "class": "E",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Buzlanovo Villas",
+   "km_catalog": 15,
+   "class": "E",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Crystal Istra",
+   "km_catalog": 15,
+   "class": "E",
+   "district": "Истринский"
+  },
+  {
+   "name": "Новинки",
+   "km_catalog": 15,
+   "class": "E",
+   "district": "Истринский"
+  },
+  {
+   "name": "Петрово-Дальнее",
+   "km_catalog": 15,
+   "class": "E",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Рубин Эстейт",
+   "km_catalog": 15,
+   "class": "E",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Вымпел",
+   "km_catalog": 16,
+   "class": "E",
+   "district": "Красногорский"
+  },
+  {
+   "name": "Аламея-Country",
+   "km_catalog": 17,
+   "class": "E",
+   "district": "Одинцовский"
+  },
+  {
+   "name": "Ивановское (эл)",
+   "km_catalog": 17,
+   "class": "E",
+   "district": "Истринский"
+  },
+  {
+   "name": "Квартал Райта",
+   "km_catalog": 17,
+   "class": "E",
+   "district": "Истринский"
+  },
+  {
+   "name": "Лобаново",
+   "km_catalog": 17,
+   "class": "E",
+   "district": "Истринский"
+  },
+  {
+   "name": "Пайнвиль-2",
+   "km_catalog": 18,
+   "class": "E",
+   "district": "Истринский"
+  },
+  {
+   "name": "Шато Соверен",
+   "km_catalog": 18,
+   "class": "E",
+   "district": "Истринский"
+  },
+  {
+   "name": "Ренессанс Парк",
+   "km_catalog": 19,
+   "class": "E",
+   "district": "Истринский"
+  },
+  {
+   "name": "Усадьба Алексеево",
+   "km_catalog": 20,
+   "class": "E",
+   "district": "Истринский"
+  },
+  {
+   "name": "Покровский (эл)",
+   "km_catalog": 23,
+   "class": "E",
+   "district": "Истринский"
+  },
+  {
+   "name": "Maslovo residence",
+   "km_catalog": 25,
+   "class": "E",
+   "district": "Одинцовский"
+  },
+  {
+   "name": "Борзые",
+   "km_catalog": 25,
+   "class": "E",
+   "district": "Истринский"
+  },
+  {
+   "name": "Подсолнухи-Ларюшино",
+   "km_catalog": 25,
+   "class": "E",
+   "district": "Одинцовский"
+  },
+  {
+   "name": "Дубрава",
+   "km_catalog": 33,
+   "class": "E",
+   "district": "Истринский"
+  },
+  {
+   "name": "Кезьмино",
+   "km_catalog": 33,
+   "class": "E",
+   "district": "Одинцовский"
+  },
+  {
+   "name": "Покровское-Рубцово",
+   "km_catalog": 38,
+   "class": "E",
+   "district": "Истринский"
+  },
+  {
+   "name": "Дачи Honka",
+   "km_catalog": 43,
+   "class": "E",
+   "district": "Солнечногорский"
+  },
+  {
+   "name": "Ривьера на Истре",
+   "km_catalog": 54,
+   "class": "E",
+   "district": "Солнечногорский"
+  },
+  {
+   "name": "ZIGGURAT County Club",
+   "km_catalog": 120,
+   "class": "E",
+   "district": "Волоколамский"
+  }
+ ]
+}
