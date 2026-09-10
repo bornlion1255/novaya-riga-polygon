@@ -2,9 +2,8 @@
 # Generate map.html (Leaflet) with the corridor polygon, M-9 axis and village markers.
 
 import json
-import pathlib
 
-BASE = str(pathlib.Path(__file__).parent)
+BASE = r"C:\born_lion\Cloude\research_2026-09_novaya_riga_polygon"
 
 with open(fr"{BASE}\polygon.geojson", encoding="utf-8") as f:
     geo = json.load(f)
@@ -43,8 +42,8 @@ html = """<!DOCTYPE html>
 <head>
 <meta charset="utf-8">
 <title>Полигон Новая Рига — бизнес/элитные посёлки (МКАД→ЦКАД)</title>
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>__LEAFLET_CSS__</style>
+<script>__LEAFLET_JS__</script>
 <style>
   body { margin: 0; font-family: Segoe UI, Arial, sans-serif; }
   #map { width: 100vw; height: 100vh; }
@@ -92,7 +91,7 @@ legend.onAdd = () => {
     + '<span class="dot e"></span>элитные — ' + __NE__ + '<br>'
     + '<span class="dot b"></span>бизнес-класс — ' + __NB__ + '<br>'
     + '<span class="dot n"></span>у кромки коридора — ' + __NN__ + '<br>'
-    + '<span style="font-size:11px;color:#555">Красная зона — полигон; пунктир — ось М-9<br>Источник: domzamkad.ru, 2026-09-10</span>';
+    + '<span style="font-size:11px;color:#555">Красная зона — полигон; пунктир — ось М-9<br>Источник: domzamkad.ru, 2026-09-10<br>Файл автономный — интернет нужен только для подложки карты (OSM)</span>';
   return d;
 };
 legend.addTo(map);
@@ -104,10 +103,16 @@ legend.addTo(map);
 ne = sum(1 for p in points if p["class"] == "E")
 nb = sum(1 for p in points if p["class"] == "B")
 nn = len(near_pts)
+with open(r"C:\born_lion\leaflet.css", encoding="utf-8") as f:
+    leaflet_css = f.read()
+with open(r"C:\born_lion\leaflet.js", encoding="utf-8") as f:
+    leaflet_js = f.read()
 html = (html.replace("__GEO__", json.dumps(geo, ensure_ascii=False))
             .replace("__PTS__", json.dumps(points, ensure_ascii=False))
             .replace("__NEAR__", json.dumps(near_pts, ensure_ascii=False))
-            .replace("__NE__", str(ne)).replace("__NB__", str(nb)).replace("__NN__", str(nn)))
+            .replace("__NE__", str(ne)).replace("__NB__", str(nb)).replace("__NN__", str(nn))
+            .replace("__LEAFLET_CSS__", leaflet_css)
+            .replace("__LEAFLET_JS__", leaflet_js))
 out = fr"{BASE}\map.html"
 with open(out, "w", encoding="utf-8") as f:
     f.write(html)
